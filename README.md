@@ -1,4 +1,4 @@
-# python-playground
+# code-de-tsukuru-python
 
 **「コードで創る — Python×創作 入門10講」** の読者用リポジトリです。
 
@@ -9,7 +9,7 @@
 **Git が使える方**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-playground.git
+git clone git@github.com:imin-minnade/code-de-tsukuru-python.git
 cd python-playground
 ```
 
@@ -21,8 +21,8 @@ cd python-playground
 
 Python のインストールがまだの方は、以下の無料記事を参照してください。
 
-- macOS: [Python環境構築ガイド（Mac編）](https://note.com/YOUR_LINK)
-- Windows: [Python環境構築ガイド（Windows編）](https://note.com/YOUR_LINK)
+- macOS: [Python環境構築ガイド（Mac編）](https://note.com/mikai_daichi/n/nd127acffeac6)
+- Windows: [Python環境構築ガイド（Windows編）](https://note.com/mikai_daichi/n/n1b314d7eae03)
 
 ### 3. 作業する
 
@@ -38,7 +38,7 @@ cd workspace/01-turtle
 ## フォルダー構成
 
 ```
-python-playground/
+code-de-tsukuru-python/
 ├── workspace/           ← あなたの作業場所
 │   ├── 01-turtle/
 │   ├── 02-matplotlib/
@@ -77,7 +77,7 @@ python-playground/
 
 ## 必要な環境
 
-- Python 3.10 以上
+- Python 3.12 以上
 - パソコン（macOS または Windows）
 - 第9回まで使うライブラリは全て無料です
 - 第10回のみ OpenAI API キーが必要です（有料）
